@@ -1,40 +1,36 @@
 ---
 title: "Mohammad Sardar Sheikh"
-image: "mohammad.jpg"
+image: "DSC_0375.JPG"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://linkedin.com/ca/mohammad-sardar-sheikh-5789a4224"
+  - label: Gmail
+    url: "mailto:msardars1111@gmail.com"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/mohammadsardar"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:mohammad.sheikh@mail.utoronto.ca"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+
+Mohammad Sardar studies at the University of Toronto, double majoring in Statistics and Economics (The two greatest subjects to ever exist). He is also a member of Trinity College (widely known to be the best college at UofT). He is passionate about data and how it can be modified and analysed to be applied to the real world, and hopes that his work will be significant enough to bring a change to the world. He likes reading books and scrolling aimlessly through his phone to pass the time and procrastinate. He loves animals and working with animals and hopes to retire in a nice farm away from society. His coding skills are currently sub-par, but he is actively working on improving them and hopes to impress both the Professor and the TA with his work.
+
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Toronto** | Toronto, ON
 
-Ph.D. in Computer Science | September 2009 - May 2014
+HBSc in Statistics and Economics | September 2019 - TBA
 
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Kalamkar** | Sales & Marketing Assistant | June 2021 - August 2021
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Sundas Foundation** | Blood Donor Liason Assistant | June 2018 - December 2018
+
+**NUR Foundation** | Support Trainee | June 2017 - December 2017
